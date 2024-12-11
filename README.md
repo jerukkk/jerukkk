@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @jerukkk
-- 👀 I’m interested on being a fullstack web developer
-- 🌱 I’m currently working on my frontend skill
+- 👀 I’m interested on cybersecurity analyst
+- 🌱 I’m currently working on my general knowledge
 - 📫 How to reach me:
   - instagram: @amarrafiii
 
