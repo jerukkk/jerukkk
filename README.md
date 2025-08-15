@@ -1,5 +1,5 @@
 - 👋 Hi, I’m @jerukkk
-- 👀 I’m interested to be cybersecurity analyst
+- 👀 I’m interested in AI/ML Field
 - 🌱 I’m currently working on my general knowledge
 - 📫 How to reach me:
   - instagram: @amarrafiii
